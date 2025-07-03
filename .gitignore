@@ -1,0 +1,32 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+wellness-env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# Data files
+*.csv
+*.tsv
+
+# Environment files
+.env
+
+# MacOS / Linux system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
