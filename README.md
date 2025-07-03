@@ -1,9 +1,6 @@
 ---
 
 
-## 📋 **README.md**
-
-# Personalized Wellness AI Project
 
 ## 🎯 **Project Overview**
 
@@ -49,15 +46,15 @@ A comprehensive machine learning project that develops a personalized wellness A
 ### 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/personalized-wellness-ai.git
-cd personalized-wellness-ai
+git clone https://github.com/AyaanShaheer/Personalized-Wellness-AI-.git
+
 ```
 
 ### 🧪 Create and Activate Virtual Environment
 
 ```bash
-python -m venv wellness-env
-source wellness-env/bin/activate  # On Windows: .\wellness-env\Scripts\activate
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
 ### 🔧 Install Dependencies
@@ -110,6 +107,8 @@ personalized-wellness-ai/
 * Higher physical activity reduces stress
 * Excessive screen time impairs sleep
 * Social interactions enhance mood and wellness
+
+ 
 
 ---
 
