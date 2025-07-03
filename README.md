@@ -103,10 +103,15 @@ personalized-wellness-ai/
 
 ### 🔍 Key Insights
 
+![Screenshot 2025-07-04 002844](https://github.com/user-attachments/assets/8ad6eee6-b566-48d6-9220-d3358849a0a4)
+
+![Screenshot 2025-07-04 002829](https://github.com/user-attachments/assets/fdefa37e-d290-42f9-8ad1-22222a3632c5)
+
 * Sleep duration is the strongest predictor of mood
 * Higher physical activity reduces stress
 * Excessive screen time impairs sleep
 * Social interactions enhance mood and wellness
+
 
  
 
